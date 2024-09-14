@@ -66,6 +66,8 @@ pre {
 code {
   padding: 0 2px;
   background-color: rgba(255, 255, 255, 0.2);
+  background-color: rgba(242, 47, 47, 0.2);
+
   font-family: 'Source Code Pro', monospace;
   font-weight: 900;
   color: rgba(255, 255, 255, 0.8);
@@ -197,7 +199,7 @@ pre {
   font-family: 'Source Code Pro', monospace;
   font-size: 16px;
   line-height: 1.5;
-  color: #777;
+  color: #454545;
 }
 
 #css {
@@ -216,7 +218,7 @@ pre {
   height: 100%;
   padding: 10px 6px;
   text-align: right;
-  background-color: #999;
+  background-color: #595959;
   color: #D5D5D5;
 }
 
